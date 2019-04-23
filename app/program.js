@@ -1,4 +1,4 @@
-var OSinfo = require('../modules/OSInfo');
+var OSinfo = require('../modules/osinfo');
 // określenie enkodowania przyjmowanych danych
 process.stdin.setEncoding('utf-8');
 
